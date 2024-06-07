@@ -6,7 +6,7 @@
 
     <groupId>org.codedoggy</groupId>
     <artifactId>AutoPrintModeChoiceApp</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <dependencies>
         <dependency>
